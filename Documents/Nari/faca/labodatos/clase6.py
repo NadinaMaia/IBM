@@ -1,1 +1,0 @@
-## diseño conceptual = der

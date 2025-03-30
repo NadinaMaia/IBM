@@ -1,7 +1,0 @@
-Es
-#es un bloque
-de notas;
-de # prueba
-para probar de como lee.
-##Este es un comentario de esta es la nueva frase
- esta es la nueva frase

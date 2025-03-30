@@ -1,0 +1,6 @@
+div -> division entera
+/ -> division flotante 
+
+fromIntegral -> forza a un tipo de dato a `mutar` a otro, le doy un entero y lo pasa a decimal
+truncate -> te quedas con la parte entera
+
